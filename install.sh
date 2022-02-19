@@ -1,9 +1,9 @@
 #!/bin/bash
 echo "    ...............Installing Requirments.........................."
-pkg update
-pkg upgrade
+pkg update -y
+pkg upgrade -y
 echo "    ...............Installing Nmap..................................."
-pkg install nmap
+pkg install nmap -y
 echo "    ...............Installed........................................"
 echo "    .................Updating Termux Packages......................."
 pkg install termux-tools
