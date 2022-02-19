@@ -1,5 +1,5 @@
 # ITDS
-ITDS- A Easy port scanning and ping tool for termux-android users.*NO ROOT*
+ITDS- A Easy port scanning and ping tool for Termux-Android users.*NO ROOT*
 # Requirments
 <li>Termux</li>
 <li>Internet Connection</li>
