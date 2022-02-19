@@ -33,7 +33,8 @@ case "$opt" in
              -t : meant for ping
              -i : The option to enter the IP address
              -p : The option to enter the port
-             -v : The option to get the script version"
+             -v : The option to get the script version
+              Ex: ./itds.sh -nt -i google.com -p 80 "
        ;;
 esac
 done
