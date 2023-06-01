@@ -7,7 +7,7 @@ ITDS- A Easy port scanning and ping tool for Termux-Android users.*NO ROOT*
 <li>
 <code>pkg update && pkg upgrade</code></li><br>
 <li><code>pkg install git</code></li><br>
-<li><code>git clone https://github.com/darkemate/itds</code></li><br>
+<li><code>git clone https://github.com/debojitsantra/itds</code></li><br>
 <li><code>cd itds</code></li><br>
 <li><code>bash install.sh</code></li><br>
 <h1>Use</h1>
