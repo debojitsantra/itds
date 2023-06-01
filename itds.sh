@@ -1,11 +1,9 @@
 #!/bin/bash
-#written by darkesoul
-#https://github.com/darkesoul
-echo "           •*************IP Tools by Darke 1.0*************•  "
-echo "                 ------- Written By Darke Soul-------    "
+echo "           •*************ITDS*************•  "
+echo "                 ------- Written By Debojit Santra-------    "
 
 echo "        
-use : ./itds.sh -h
+help : ./itds.sh -h
       
 " 
 #Example: ./itds.sh -nt -i google.com -p 80
