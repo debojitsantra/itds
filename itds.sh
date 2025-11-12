@@ -1,10 +1,4 @@
-#!/bin/bash
-echo "           •*************ITDS*************•  "
-echo "                 ------- Written By Debojit Santra-------    "
-
-echo "        
-help : ./itds.sh -h
-      
+#!/bin/bash     
 " 
 #Example: ./itds.sh -nt -i google.com -p 80
 
@@ -27,11 +21,11 @@ case "$opt" in
        echo "pingmap -[n|t[i|p]|v]"
        echo "                     "
        echo "
-             -n : meant for nmap
-             -t : meant for ping
-             -i : The option to enter the IP address
-             -p : The option to enter the port
-             -v : The option to get the script version
+             -n : nmap
+             -t : ping
+             -i : ip
+             -p : port
+             -v : version
               Ex: ./itds.sh -nt -i google.com -p 80 "
        ;;
 esac
